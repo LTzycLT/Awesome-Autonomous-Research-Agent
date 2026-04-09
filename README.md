@@ -19,11 +19,11 @@ A curated list of papers and projects on autonomous AI systems that conduct scie
 
 | Name | Description | Code | Paper | Organization | Released | Stars |
 |---|---|---|---|---|---|---|
-| **autoresearch** | Autonomous AI Agent for Overnight LLM Training Experiments | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/karpathy/autoresearch) | — | Karpathy | 2026-03 | ★68.9k |
-| **EvoScientist** | Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery | — | [![arXiv](https://img.shields.io/badge/arXiv-2603.08127-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.08127) | Huawei | 2026-03 | — |
-| **The AI Scientist** | Towards Fully Automated Open-Ended Scientific Discovery | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/SakanaAI/AI-Scientist) | [![arXiv](https://img.shields.io/badge/arXiv-2408.06292-b31b1b?logo=arxiv)](https://arxiv.org/abs/2408.06292) | Sakana AI | 2024-08 | ★13.1k |
-| **AIDE** | AI-Driven Exploration in the Space of Code | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/WecoAI/aideml) | [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-b31b1b?logo=arxiv)](https://arxiv.org/abs/2502.13138) | Weco AI | 2024-04 | ★1.2k |
-| **OpenHands** | A Composable and Extensible Foundation for Production Agents | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/All-Hands-AI/OpenHands) | [![arXiv](https://img.shields.io/badge/arXiv-2511.03690-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.03690) | All Hands AI | 2024-03 | ★70.9k |
+| **autoresearch** | Autonomous AI Agent for Overnight LLM Training Experiments | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)](https://github.com/karpathy/autoresearch) | — | Karpathy | 2026-03 | ★68.9k |
+| **EvoScientist** | Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery | — | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2603.08127) | Huawei | 2026-03 | — |
+| **The AI Scientist** | Towards Fully Automated Open-Ended Scientific Discovery | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)](https://github.com/SakanaAI/AI-Scientist) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2408.06292) | Sakana AI | 2024-08 | ★13.1k |
+| **AIDE** | AI-Driven Exploration in the Space of Code | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)](https://github.com/WecoAI/aideml) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2502.13138) | Weco AI | 2024-04 | ★1.2k |
+| **OpenHands** | A Composable and Extensible Foundation for Production Agents | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)](https://github.com/All-Hands-AI/OpenHands) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2511.03690) | All Hands AI | 2024-03 | ★70.9k |
 
 ---
 
