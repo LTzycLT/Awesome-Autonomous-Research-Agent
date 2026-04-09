@@ -31,7 +31,7 @@ A curated list of papers and projects on autonomous AI systems that conduct scie
 
 | Paper Name | Organization | Published | Code |
 |---|---|---|---|
-| **[EvoScientist](https://arxiv.org/abs/2603.08127)** | Huawei | 2026-03 | — |
+| **[EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery](https://arxiv.org/abs/2603.08127)** | Huawei | 2026-03 | — |
 | **[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)** | Sakana AI | 2024-08 | [GitHub](https://github.com/SakanaAI/AI-Scientist) |
 ---
 
