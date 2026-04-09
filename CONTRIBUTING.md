@@ -66,7 +66,7 @@ Stars are a snapshot at time of entry. Do not update star counts in follow-up PR
 ## Adding an Entry
 
 1. Fork the repository and create a new branch
-2. Add your entry to the appropriate table, sorted by release date (ascending)
+2. Add your entry to the appropriate table, sorted by release date (descending)
 3. Verify that all links are accessible
 4. Open a pull request with a brief description of what you are adding and why it is in scope
 
