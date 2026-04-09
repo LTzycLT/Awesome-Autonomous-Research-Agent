@@ -4,7 +4,7 @@ A curated list of papers and projects on autonomous AI systems that conduct scie
 
 **Scope**: Systems that autonomously perform research tasks — including hypothesis generation, experiment design/execution, result analysis, and paper writing — with minimal human intervention. Execution frameworks widely used as research scaffolds are also included.
 
-**Format rule**: All descriptions are taken verbatim or paraphrased directly from the paper abstract or project README. No editorial judgment.
+**Format rule**: All descriptions are taken verbatim or paraphrased directly from the paper abstract or project README. No editorial judgment. Entries are sorted by release date (ascending).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
