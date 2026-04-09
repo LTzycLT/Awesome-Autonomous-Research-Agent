@@ -52,11 +52,10 @@ All entries go in the single **Entries** table with columns:
 
 ### Stars
 
-- If a GitHub repository exists: rendered as a colored badge, rounded to nearest 0.1k
-  - `> 10k` → gold (`FFD700`)
-  - `1k – 10k` → blue (`4A90D9`)
-  - `< 1k` → grey (`aaaaaa`)
-  - Badge format: `![](https://img.shields.io/badge/★_Xk-COLOR?style=flat-square)`
+- If a GitHub repository exists: rendered with a medal emoji indicating tier, rounded to nearest 0.1k
+  - `> 10k` → 🥇 Xk
+  - `1k – 10k` → 🥈 Xk
+  - `< 1k` → 🥉 Xk
 - Otherwise: `—`
 
 ---
