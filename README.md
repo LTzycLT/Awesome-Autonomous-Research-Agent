@@ -11,28 +11,20 @@ A curated list of papers and projects on autonomous AI systems that conduct scie
 
 ## Contents
 
-- [Projects & Codebases](#projects--codebases)
-- [Papers](#papers)
+- [Entries](#entries)
 
 ---
 
-## Projects & Codebases
+## Entries
 
-| Project Name | Organization | Released | Last Updated | Stars |
-|---|---|---|---|---|
-| **[autoresearch](https://github.com/karpathy/autoresearch)** | Karpathy | 2026-03 | 2026-03 | ★68.9k |
-| **[The AI Scientist](https://github.com/SakanaAI/AI-Scientist)** | Sakana AI | 2024-08 | 2025-12 | ★13.1k |
-| **[AIDE](https://github.com/WecoAI/aideml)** | WecoAI | 2024-04 | 2026-02 | ★1.2k |
-| **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** | All Hands AI | 2024-03 | 2026-04 | ★70.9k |
+| Name | Description | Code | Paper | Organization | Released | Stars |
+|---|---|---|---|---|---|---|
+| **autoresearch** | Autonomous AI Agent for Overnight LLM Training Experiments | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/karpathy/autoresearch) | — | Karpathy | 2026-03 | ★68.9k |
+| **EvoScientist** | Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery | — | [![arXiv](https://img.shields.io/badge/arXiv-2603.08127-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.08127) | Huawei | 2026-03 | — |
+| **The AI Scientist** | Towards Fully Automated Open-Ended Scientific Discovery | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/SakanaAI/AI-Scientist) | [![arXiv](https://img.shields.io/badge/arXiv-2408.06292-b31b1b?logo=arxiv)](https://arxiv.org/abs/2408.06292) | Sakana AI | 2024-08 | ★13.1k |
+| **AIDE** | AI-Driven Exploration in the Space of Code | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/WecoAI/aideml) | [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-b31b1b?logo=arxiv)](https://arxiv.org/abs/2502.13138) | Weco AI | 2024-04 | ★1.2k |
+| **OpenHands** | A Composable and Extensible Foundation for Production Agents | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/All-Hands-AI/OpenHands) | [![arXiv](https://img.shields.io/badge/arXiv-2511.03690-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.03690) | All Hands AI | 2024-03 | ★70.9k |
 
----
-
-## Papers
-
-| Paper Name | Organization | Published | Code |
-|---|---|---|---|
-| **[EvoScientist](https://arxiv.org/abs/2603.08127)** | Huawei | 2026-03 | — |
-| **[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)** | Sakana AI | 2024-08 | [GitHub](https://github.com/SakanaAI/AI-Scientist) |
 ---
 
 *Stars are snapshots at time of entry and may be outdated. See [CONTRIBUTING.md](CONTRIBUTING.md) for entry format rules.*

@@ -14,30 +14,46 @@ When in doubt, ask: does this system make autonomous research decisions, or is i
 
 ## Entry Format
 
-### Projects & Codebases
+All entries go in the single **Entries** table with columns:
 
-Table columns: `Project Name | Organization | Released | Last Updated | Stars`
+`Name | Description | Code | Paper | Organization | Released | Stars`
 
-- **Project Name**: linked to the public GitHub repository
-- **Organization**: team or company that maintains the project
-- **Released**: month of first public release, in `YYYY-MM` format
-- **Last Updated**: month of most recent substantive update, in `YYYY-MM` format; use `—` if unknown
-- **Stars**: GitHub star count at time of entry, rounded to nearest 0.1k (e.g., `★ 1.2k`); use `—` if unavailable
+### Name
 
-Optionally, add a one-line description as a blockquote immediately below the table row:
+- If a GitHub repository exists, use the repository name
+- Otherwise, use the paper title
+- Rendered as bold plain text (no link; links are in Code and Paper columns)
 
-```markdown
-> Autonomous LLM research loop running continuously with a fixed 5-minute experiment budget per iteration.
-```
+### Description
 
-### Papers
+- If a paper exists: use the paper title minus the project name prefix (e.g., for "AIDE: AI-Driven Exploration in the Space of Code", use "AI-Driven Exploration in the Space of Code")
+- If no paper exists: paraphrase a one-line description from the project README in a style similar to a paper subtitle
+- Must be taken verbatim or paraphrased directly from the source; no editorial judgment
 
-Table columns: `Paper Name | Organization | Published | Code`
+### Code
 
-- **Paper Name**: linked to arXiv or official paper page
-- **Organization**: institution of the first or corresponding author(s)
-- **Published**: arXiv first submission month (`YYYY-MM`); for conference/journal papers, use the acceptance/publication month
-- **Code**: GitHub link if publicly available; `—` otherwise
+- If a public GitHub repository exists: `[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](URL)`
+- Otherwise: `—`
+
+### Paper
+
+- If a public paper exists: `[![arXiv](https://img.shields.io/badge/arXiv-ID-b31b1b?logo=arxiv)](URL)`
+- Otherwise: `—`
+
+### Organization
+
+- If a paper exists: use the institution of the first or corresponding author(s)
+- If no paper exists: use the GitHub repository owner account name
+
+### Released
+
+- If a GitHub repository exists: month of first commit (`YYYY-MM`)
+- If no repository exists: month of paper first submission (`YYYY-MM`)
+
+### Stars
+
+- If a GitHub repository exists: star count at time of entry, rounded to nearest 0.1k (e.g., `★ 1.2k`)
+- Otherwise: `—`
 
 ---
 
@@ -51,7 +67,7 @@ Table columns: `Paper Name | Organization | Published | Code`
 
 ### Public link requirement
 
-Every entry must have at least one publicly accessible link (GitHub repository or arXiv paper page). Entries without a verifiable public URL will not be accepted.
+Every entry must have at least one publicly accessible link (GitHub repository or paper page). Entries without a verifiable public URL will not be accepted.
 
 ### Date format
 
@@ -66,7 +82,7 @@ Stars are a snapshot at time of entry. Do not update star counts in follow-up PR
 ## Adding an Entry
 
 1. Fork the repository and create a new branch
-2. Add your entry to the appropriate table, sorted by release date (descending)
+2. Add your entry to the Entries table, sorted by release date (descending)
 3. Verify that all links are accessible
 4. Open a pull request with a brief description of what you are adding and why it is in scope
 
