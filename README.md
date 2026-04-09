@@ -9,13 +9,6 @@ A curated list of papers and projects on autonomous AI systems that conduct scie
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
-
-- [Entries](#entries)
-
----
-
-## Entries
 
 | Name | Description | Code | Paper | Organization | Released | Stars |
 |---|---|---|---|---|---|---|
